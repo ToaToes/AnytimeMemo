@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242058178278",
+    "project_id": "anytimememo",
+    "storage_bucket": "anytimememo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242058178278:android:0c2be0cfc267443643d527",
+        "android_client_info": {
+          "package_name": "com.example.anytimememo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh95LW00NS3AGoNMPQ-6WPqfk8Wt1FS3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

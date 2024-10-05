@@ -3,7 +3,7 @@ Finished: Splash Screen, Firebase Database, Appbar List, Hilt-dagger dependency 
 Unfinished: Weather API authentication(TODO), Screen widget(TODO) 
 
 
-## Jetpack
+</br>Jetpack
 </br>Compose: Android’s modern toolkit for building native UI.
 </br>ViewModel: UI related data holder and lifecycle aware..
 </br>Navigation: For navigating screens and Hilt Navigation Compose for injecting dependencies.
